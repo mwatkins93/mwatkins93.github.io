@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "mwatkins93.github.io"
+  title: "Forever Rising"
   navbar:
     right:
       - about.qmd
