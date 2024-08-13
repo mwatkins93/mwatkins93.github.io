@@ -1,5 +1,5 @@
 ---
-title: "mwatkins93.github.io"
+title: "Forever Rising"
 listing:
   contents: posts
   sort: "date desc"
