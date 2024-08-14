@@ -1,0 +1,31 @@
+---
+title: "Call of Duty: a fitting ending"
+date: "6/12/2021"
+categories: [gaming]
+---
+
+## Background
+
+Only a few game franchises hold a special place in my heart; one of which is Call of Duty. There are a couple reasons for this, but I feel that the most significant reason is timing (or luck). Subjectively speaking, being between the ages of seven (maybe six) and fourteen during the 'modern gaming explosion' of the early-mid 2000s is something I have a hard time putting into words. Any younger and the experience might not be fully grasped, or, maybe the lack of early freedom (e.g., sleepovers, asking for consoles at Christmas, etc.) kids who were slightly older had, played a role in limiting exposure. Any older and I'd argue that other aspects of life start reducing that freedom (e.g., high school, jobs, socialising); some of which also start removing that naivety which, in my opinion, was crucial during that initial exposure. Ultimately, being in the 'goldilocks zone' during this time was special.
+
+## 2010s
+
+For almost a decade playing Call of Duty during its release was the highlight of the year for my friends and I. We would play online competitively, discuss gameplay elements in school and have nights where we would be in the same room until the sun came up. However, something changed around 2013 and it has taken me some time to understand why. Firstly, as mentioned above, the freedom and naivety (which used to be full) started to disappear. Secondly, on a more neurological level, an annual habit loop established and with each yearly release the dopamine response gradually declined; the game slowly became more recycled and therefore, less fun. Thirdly, the industry as a whole started to change. I could be wrong, but sometime around the release of Advanced Warfare, a whole new can of worms (i.e., microtransactions) opened for Activision Blizzard -- the franchise's publisher. A major paradigm shift had occurred and from that point onward, predatory game decisions seemingly inundated every new release pushing gameplay and creativity to the side.¹ Despite these points, we did find ourselves recharged for a few titles during the mid 2010s; namely, Black Ops III in 2015. However, about a third of the way through that cycle, I noticed the end of my time with the series approaching for one reason in particular. I had begun to create obscure challenges for myself within the game in order to make the game fun. The last part of that sentence was a tough realisation for me. I was playing the game because I had always played it, not because I still enjoyed the base experience it offered. This continued for a number of years (i.e., played sparingly from 2015 onward) until I was presented with the opportunity to happily close the Call of Duty chapter earlier this year.
+
+## 2020s
+
+During my time in Sault Ste. Marie, I lived with (and met) some folks who were primarily Zombies players and played fairly regularly. By this point, I had not played Call of Duty since the start of the pandemic and had no desire to play because the current release looked like a carbon copy of 2012. But, there were some down nights and I ended up picking the controller back up every now and then. Because it was late in the annual cycle, some fan favourite maps had been added and, almost immediately, I defaulted back to something I started doing in Black Ops III: throwing tomahawks across the map in Search and Destroy (i.e., creating an obscure challenge).² For me, there is no greater humiliation in the series than spawning in, running for a few seconds, instantly dying by a tomahawk and having to watch the kill cam and the remainder of the round go on from the sideline. Conversely, as the tomahawk thrower, there is unbelievable satisfaction in connecting with a tomahawk, specifically a cross-map one, because the chances are incredibly low and the humiliation on the other end is so high. So it began - I casually threw tomahawks out of nostalgia, until I hit a few; then I hit a few more. I started saving the clips to show the roommates and all of a sudden the idea of 'how feasible is it to get one on every map' was thrown around. I thought it was next to impossible based on a few of the map layouts, but another thought entered my brain shortly after: I had always admired the Youtube montages and editing skills of some of the Call of Duty content creators -- 'why not create something? You have always wanted to.' Admittedly, when I was younger, I desperately wanted to make some sort of film or clan montage for us Cloverdale guys, but I always ended up quitting; editing was too hard, so much time was needed. On and on went the list of excuses and I never did complete anything substantial. Shortly after some back and forth the challenge was born and I got obsessed with completing it. Ultimately, after thousands of tomahawk throws, I did in fact complete the absurd challenge of hitting a cross-map tomahawk on every map.³ Then, after quickly learning Adobe After Effects and what seemed like hundreds of hours later, I finished the video; most importantly, for myself, but also for the roommates and friends of 'TheJankHouse'. It truly feels like the perfect ending chapter. Now, I can rest easy knowing I have accomplished everything I have ever wanted to within the Call of Duty universe. This was likely my last time ever playing the franchise and I am glad to say I left on my highest note.
+
+For now,
+
+MGW
+
+{{< video https://www.youtube.com/embed/E8u6LV_VwL0 >}}
+
+------------------------------------------------------------------------
+
+¹ Later, releases like Fortnite would exacerbate this.
+
+² A popular one life attack and defend game mode based off of Counter-Strike.
+
+³ Every map released until the end of August was completed; I moved away after that and could not continue.
