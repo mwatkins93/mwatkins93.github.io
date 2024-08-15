@@ -1,6 +1,7 @@
 ---
 title: "Modern Warfare II: throwing knife analysis"
 date: 8/11/2024
+categories: [gaming]
 ---
 
 ## Background
