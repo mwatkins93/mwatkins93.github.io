@@ -8,6 +8,11 @@ format:
   html:
     theme: simplex
     css: styles.css
+    mainfont: avenir next
+    fontsize: 1rem
+    fontcolor: "#3F3F3F"
+    linkcolor: "#729fde"
+    monofont: arial
 
 editor: visual
 
