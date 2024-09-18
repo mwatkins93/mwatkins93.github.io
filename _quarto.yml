@@ -13,8 +13,6 @@ format:
     fontcolor: "#3F3F3F"
     linkcolor: "#729fde"
     monofont: arial
-    title-block-banner: true
-    title-block-banner-color: "#000053"
 
 editor: visual
 
