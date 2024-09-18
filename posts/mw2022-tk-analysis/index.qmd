@@ -6,7 +6,7 @@ categories: [gaming]
 
 ## Background
 
-During Modern Warfare II (MWII), I spent the majority of my time in Search and Destroy attempting to hit cross-map throwing knives. After I hit Embassy, the last 6v6 map I needed, I had amassed 91 cross-maps in total. After omitting Shipment, I tried to pull out a few interesting details to share with the community. This dataset will also be available on [GitHub](https://github.com/mwatkins93/MWII_analysis) if anyone wants to use it in the future. Some quick facts off the top:
+So much for my previous Call of Duty post. During the Modern Warfare II (MWII) cycle, I spent the majority of my time in Search and Destroy attempting to hit cross-map throwing knives. After I hit Embassy, the last 6v6 map I needed, I had amassed 91 cross-maps in total. After omitting Shipment, I tried to pull out a few interesting details to share with the community. This dataset will also be available on [GitHub](https://github.com/mwatkins93/MWII_analysis) if anyone wants to use it in the future. Some quick facts off the top:
 
 -   I played a total of 562 games of Search and Destroy.
 
@@ -170,7 +170,7 @@ tk_data %>%
 
 ```
 
-Interestingly, my data follows the 'typical' Call of Duty player cycle pretty well, which makes me laugh --- I guess it is a thing after all. I hope you enjoyed this and maybe even learned something new about the game.
+Interestingly, my data follows the 'typical' Call of Duty player cycle pretty well, which makes me laugh --- I guess it is a thing after all. I hope you enjoyed this and maybe even learned something new about the game. Finally, I think I'm really done this time; I've played four lifetimes worth of this franchise and it is simply best to let it rest.
 
 Until next time,
 
