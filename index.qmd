@@ -1,5 +1,6 @@
 ---
 title: "Forever Rising"
+subtitle: " A blog by MGW"
 listing:
   type: default
   contents: posts
