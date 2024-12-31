@@ -14,7 +14,10 @@ format:
     linkcolor: "#729fde"
     monofont: arial
     title-block-banner: true
-    title-block-banner-color: "#729fde"
+    
+include-in-header:
+  text: |
+    <link rel = "/Users/MW/Desktop/Creative/Resources/Icons/favicons/notepad_96x96.png" href="notepad_96x96.png" />
 
 editor: visual
 
