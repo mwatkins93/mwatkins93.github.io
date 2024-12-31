@@ -4,6 +4,7 @@ project:
 
 website:
   title: ""
+  favicon: images/notepad_96x96.png
 format:
   html:
     theme: simplex
