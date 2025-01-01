@@ -5,6 +5,8 @@ project:
 website:
   title: ""
   favicon: "images/notepad_96x96.png"
+  navbar: 
+    logo: "images/notepad_96x96.png"
 format:
   html:
     theme: simplex
@@ -15,6 +17,7 @@ format:
     linkcolor: "#729fde"
     monofont: arial
     title-block-banner: true
+    
 
 editor: visual
 
