@@ -1,12 +1,13 @@
 ---
 title: "Forever Rising"
+subtitle: ""
 listing:
   type: default
   contents: posts
   sort: "date desc"
   categories: true
-  sort-ui: true
-  filter-ui: true
+  sort-ui: false
+  filter-ui: false
   fields: [date, title, description, reading-time, categories]
 page-layout: full
 ---
