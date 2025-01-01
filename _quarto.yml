@@ -10,7 +10,7 @@ format:
     css: styles.css
     mainfont: avenir next
     fontsize: 1rem
-    fontcolor: "#3F3F3F"
+    fontcolor: "#000000"
     linkcolor: "#729fde"
     monofont: arial
     title-block-banner: true
