@@ -1,6 +1,6 @@
 ---
 title: "Forever Rising"
-subtitle: ""
+subtitle: "A life appendix"
 listing:
   type: default
   contents: posts
