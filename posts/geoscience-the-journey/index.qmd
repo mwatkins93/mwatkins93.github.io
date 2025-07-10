@@ -1,6 +1,6 @@
 ---
 title: "Geoscience: the journey thus far"
-date: 6/26/2025
+date: 7/12/2025
 categories: [science]
 ---
 
