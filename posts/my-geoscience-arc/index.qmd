@@ -1,0 +1,116 @@
+---
+title: "Geoscience: the journey thus far"
+date: 6/26/2025
+categories: [science]
+---
+
+## Purpose
+
+In preparation for the second part of my life reflections series --- likely titled "Life Reflections at 35" --- I've decided to document every opportunity I've accepted in the geoscience sector. In one breath, it is simply for personal organisation; in another breath, it highlights the interesting work being done by some excellent people who are far more knowledgeable than I.
+
+## Summer 2019
+
+#### 1. Audouin's Night-stalking Tiger Beetle
+
+In May I was hired by Douglas College to support work on the population dynamics of Audouin's Night-stalking Tiger Beetle (*Omus audouini*). In 2013, *Omus audouini* was designated 'Threatened' by the Committee on the Status of Endangered Wildlife in Canada. Therefore, a recovery strategy was put in place by Environment and Climate Change Canada. Critical factors affecting their habitat range include: 1) residential, commercial, and industrial development; 2) recreational activities; 3) vegetation succession; and 4) sea level rise (long-term).
+
+Our research was conducted at one of the five surviving sub-populations located in Boundary Bay, Delta, B.C. Fieldwork consisted of bi-weekly vegetation surveys using simple pitfall traps. The aim was to associate beetle populations with certain plant species and hypothesise which areas the beetles lived in and how widely distributed they were in the bay. Interestingly, this work was presented at the Canadian Society for Ecology and Evolution, Entomological Society of Canada, and Environment and Climate Change Canada 2019 Joint Meeting in Fredericton, New Brunswick.
+
+**Sectors**: Insect Ecology; Climate Change
+
+**Researchers**: Dr. Robert McGregor
+
+**Project status**: Unknown
+
+**Relevant literature**:
+
+1.  Environment and Climate Change Canada. 2022. Recovery Strategy for the Audouin's Night-stalking Tiger Beetle (Omus audouini) in Canada \[Proposed\]. Species at Risk Act Recovery Strategy Series. Environment and Climate Change Canada, Ottawa. viii + 46 pp. [https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/recovery-strategies/audouins-night-stalking-tiger-beetle-proposed-2022.html](https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/recovery-strategies/audouins-night-stalking-tiger-beetle-proposed-2022.html#toc7)
+2.  COSEWIC. 2013. COSEWIC assessment and status report on the Audouin's Night-stalking Tiger Beetle Omus audouini in Canada. Committee on the Status of Endangered Wildlife in Canada. Ottawa. X + 57 pp. [https://ecprccsarstacct.z9.web.core.windows.net/files/SARAFiles/legacy/cosewic/sr_Audouin's%20Night-stalking%20Tiger%20Beetle_2013_e.pdf](https://ecprccsarstacct.z9.web.core.windows.net/files/SARAFiles/legacy/cosewic/sr_Audouin's%20Night-stalking%20Tiger%20Beetle_2013_e.pdf)
+
+#### 2. Geothermal monitoring at Mt. Meager
+
+In July I was also offered the opportunity to conduct fieldwork at Mt. Meager --- the second highest peak of the Mt. Meager massif complex situated in the Cascade Volcanic Arc. Despite being dormant for approximately 2400 years, Mt. Meager is best known for having the largest volcanic eruption in Canada in the last 10,000 years. More recently, earthquakes, fumeroles, and the presence of hot springs --- Meager Creek and Pebble Creek --- are indicative of renewed volcanic activity.
+
+The focus of this research project was Pebble Creek Hot Springs, which is located roughly 100 km from Whistler on the eastern side of the Lillooet River valley. In short, Pebble Creek Hot Springs is present due to volcanic out-gassing - the release of hot internal gases at the surface which allows the Earth to cool down (i.e., its primary goal) (Staples, 2019). Shallow magma residing underneath Mt. Meager is responsible for the high temperatures as heat radiates outward from this source and warms up nearby rocks. Much of the near-surface rock is fractured, faulted and porous which allows rainwater to percolate downward and collect in aquifers (McCall, 2005). This water heats up to alarming temperatures, but does not boil due to the overlying pressure depressing its boiling point (i.e., water remains a liquid over 100° C) (McCall, 2005). Water then travels back up to the surface through conduits and porous material thereby creating the hot springs we see today. Since the water that feeds the hot springs carries a geochemical signature, the goal of this work was to establish a baseline monitoring system during volcano dormancy. Thus, any abrupt chemical changes (e.g., an increase in sulphur) observed in subsequent water samples could signal shifting subsurface conditions and act as an early warning system for future eruptions.
+
+**Sectors**: Volcanology; Geochemistry
+
+**Researchers**: Dr. Nathalie Vigouroux-Caillibot
+
+**Project status**: Unknown
+
+**Relevant literature**:
+
+1.  McCall, G.J.H. 2013. Geysers and Hot Springs. Reference Module in Earth Systems and Environmental Sciences. <https://sci-hub.se/10.1016/B978-0-12-409548-9.02846-3>
+
+## Summer 2020
+
+#### Hemiboreal hydrology in Ontario
+
+While waiting to hear back from several Master's programs across the nation, I took a remote summer position with Natural Resources Canada. The focus of this work was to examine whether peak flows in watersheds east of Lake Superior were changing in magnitude and annual timing (i.e., from 1960 to present day). For this analysis, we considered several factors which included seasonal lake ice coverage, climate variablity (total seasonal precipitation, mean seasonal temperature), spatial distribution of watersheds, and watershed size.
+
+I spent the first week learning R --- which has a steep learning curve, but is like Excel on steroids once you begin appreciating its power and versatility. Subsequent weeks were spent doing basic data exploration for watersheds (using the [Tidyhydat](https://joss.theoj.org/papers/10.21105/joss.00511) package) that met our screening requirements. For example, calculating yearly changes in seasonal flow metrics and counting the number of events above a certain max flow threshold. Similar data exploration was conducted for ice cover, and surface temperature and precipitation, which were pulled from relevant Weather Canada stations dating back to 1960. Seasonal climate summaries (i.e., mean temperature and total precipitation) were subsequently created for every year at each station.
+
+Historically, peak flows in hemiboreal watersheds occur in late spring to early summer (coinciding with the freshet); however, preliminary analysis from this work suggests that the timing of these flows are shifting to later in the year (i.e., mid-late summer). While differences in flow magnitude tended to be negligible, more work needs to be done to determine which environmental factors may be associated with these changes in timing.
+
+**Sectors**: Physical Hydrology; Climate Change
+
+**Researchers**: Dr. Jason Leach
+
+**Project status**: Archived
+
+**Relevant literature**:
+
+1.  Ficklin, D.L., Abatzoglou, J.T., Robeson, S.M., Null, S.E., Knouft, J.H. 2018. Natural and managed watersheds show similar responses to recent climate change. Proceedings of the National Academy of Sciences, 115(34), 8553-8557. <https://doi.org/10.1073/pnas.1801026115>
+
+## Fall 2020 - Winter 2024
+
+#### Master of Science --- Boreal Shield hydrology
+
+To build on the skills I acquired from the NRCan research position, I moved to Peterborough in September and began the long, arduous journey of completing a thesis-based Master's. The goals of my project were fairly straightforward:
+
+1.  Examine how carbon quantity and quality varied across space and time in boreal watersheds that were affected by various types and extents of forest disturbance (e.g., logging).
+2.  Discuss the findings of #1 in the context of downstream impacts to water treatment operations since carbon (mainly the dissolved fraction) has detrimental effects on the coagulation and disinfection stages, respectively.
+
+Thus, understanding the spatial and temporal patterns in carbon and its fate across the landscape can help forestry and water professionals make informed management decisions such that water quality goals are met to ensure the highest safety for public consumption.
+
+Prior to my project, many years of water quality work had been completed at the Turkey Lakes Watershed north of Sault Ste. Marie, Ontario. We wanted to expand on these findings and increase the scale as little was known about carbon dynamics in watersheds located more inland from Lake Superior. Thirty study sites were eventually selected and monitored over a 5-month period where streamflow estimates and water samples were taken. The results indicated that carbon concentration tended to be higher in watersheds that were affected by recent harvesting events, while carbon composition was predominantly terrestrial (i.e., land-based inputs). The most important landscape characteristics were open water (i.e., lake coverage) and watershed area, which tended to be associated with lower carbon concentrations.
+
+Given the many limitations in this study, future work in the region should consider:
+
+1.  The effects of beaver due to their: (a) prevalence in streams within the region; and (b) impact on streamflow regime, riparian environment dynamics, and water storage, which all influence water quality (Westbrook et al., 2020; Westbrook et al., 2006; Woo and Waddington, 1990).
+2.  Capturing more event-based flows with a focus on the rising limb of the hydrograph. Sampling event-based flows is critical since flow paths change relative to baseflow and hydrologically link different DOC source pools.
+3.  Including other important predictor variables such as dominant parent material, water travel time, or soil wetness conditions in the analysis. Their inclusion may better explain the spatiotemporal variability in DOC.
+
+**Sectors**: Water Quality; Forest Disturbance; Boreal Shield
+
+**Researchers**: Dr. Jim Buttle; Dr. Jason Leach
+
+**Project status**: Complete
+
+**Relevant literature**:
+
+1.  Emelko, M.B., Silins, U., Bladon, K.B., Stone, M. 2011. Implications of land disturbance on drinking water treatability in a changing climate: demonstrating the need for "source water supply and protection" strategies. Water Research, 45(2), 461-472. <https://sci-hub.se/https://doi.org/10.1016/j.watres.2010.08.051>
+2.  Watkins, M.G. 2024. The effects of forest disturbance on dissolved organic carbon in the Algoma region, central Ontario. Master's thesis. Trent University. <https://zenodo.org/records/10685569>
+
+## Summer 2024
+
+#### Geoscience Consulting
+
+Shortly after some post-graduate degree travel, I accepted an offer to become a geoscientist at a small consulting firm in Regina, Saskatchewan. They work on various projects related to route-building (e.g., pipelines) and terrain analysis. Early on I was brought up to speed on the Saskatchewan land parcel system and conducted several geophysical surveys to (a) assess aggregate potential and (b) monitor decommissioned oil wells. Later in the summer I spent some time working in R to assess small elevation changes over a 7-10 year period in areas adjacent to a new roadway in northern Ontario. Engineers were concerned if the land was slowly sinking over time, which would be detrimental for construction purposes; however, several locations suggested these drops were tied to hydrological fluctuations in nearby water bodies.
+
+Overall, it was an excellent learning experience as I had little understanding of the complex problem-solving the private side of the industry undertakes every week. With sound mentorship, the freedom to take on more responsibility and work in the areas you're interested in, it is easy to see why people enjoy this environment.
+
+**Sectors:** Terrain Analysis; Geomorphology; Natural Resources
+
+## The future
+
+By September 2024, I was no longer employed in the geoscience sector; however, it's more of a temporary hiatus while I pursue something else. In the mean time I still work on a few geoscience when I can; these include:
+
+1.  Synthesising my old lecture notes from university into [Obsidian](https://obsidian.md) (a pretty cool note-taking app that I use). This mainly includes petrology and structural geology such that I can better understand ore deposits whenever I decide to crack open a textbook in the future.
+2.  Getting caught up on the [Cascadia Subduction Zone](https://www.youtube.com/watch?v=Iy5a2P3zXl4) story. As such, I've spent a fair amount of time reading John Adams', Chris Goldfinger's, and OSU's/UW's work on the subject --- it is quite intriguing. Furthermore, there is an excellent [2021 paper](https://www.annualreviews.org/content/journals/10.1146/annurev-earth-071620-065605) that provides an overview of (a) evidence for great earthquakes in the region; and (b) current knowledge gaps that require further investigation. It would be pretty cool to work on some of this earthquake/tsunami risk stuff at the provincial level in B.C. down the road. There is always a place for doing something meaningful at home.
+3.  Taking some key sections from my M.Sc. and publishing a paper with some former colleagues. Although this was initiated last year, I've realised I don't have the motivation to continue pushing this forward right now. Despite that, I think it would be quite rewarding --- and perhaps inspiring to others --- to become a first author one day given my unlikely road to a graduate degree.
+
+For now,
+
+MGW
