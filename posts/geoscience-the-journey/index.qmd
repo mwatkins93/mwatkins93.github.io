@@ -79,8 +79,8 @@ Prior to my project, many years of water quality work had been completed at the 
 Given the many limitations in this study, future work in the region should consider:
 
 1.  The effects of beaver due to their: (a) prevalence in streams within the region; and (b) impact on streamflow regime, riparian environment dynamics, and water storage, which all influence water quality (Westbrook et al., 2020; Westbrook et al., 2006; Woo and Waddington, 1990).
-2.  Capturing more event-based flows with a focus on the rising limb of the hydrograph. Sampling event-based flows is critical since flow paths change relative to baseflow and hydrologically link different DOC source pools.
-3.  Including other important predictor variables such as dominant parent material, water travel time, or soil wetness conditions in the analysis. Their inclusion may better explain the spatiotemporal variability in DOC.
+2.  Capturing more event-based flows with a focus on the rising limb of the hydrograph. Sampling event-based flows is critical since flow paths change relative to baseflow and hydrologically link different carbon source pools.
+3.  Including other important predictor variables such as dominant parent material, water travel time, or soil wetness conditions in the analysis. Their inclusion may better explain the spatiotemporal variability in carbon.
 
 **Sectors**: Water Quality; Forest Disturbance; Boreal Shield
 
